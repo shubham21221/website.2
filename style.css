@@ -1,0 +1,29 @@
+#{
+    margin: 0;
+    padding:0;
+    
+}
+logo{
+    color: rgb(10, 72, 131);
+    margin-top: 20px;
+    padding-right: 20px;
+    position: top;
+
+}
+p{
+    color: red;
+    line-height: 20xp;
+    position: static;
+
+
+}
+body{
+    background-color: aquamarine;
+}
+pre{
+    color: blueviolet;
+    line-height: 20px;
+}
+u{
+    color: blue;
+}
